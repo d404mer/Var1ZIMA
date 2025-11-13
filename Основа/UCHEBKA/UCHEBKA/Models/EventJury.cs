@@ -13,7 +13,6 @@ public partial class EventJury
 
     public long? FkJuryId { get; set; }
 
-    public virtual Activity? FkActivity { get; set; }
 
     public virtual Event? FkEvent { get; set; }
 

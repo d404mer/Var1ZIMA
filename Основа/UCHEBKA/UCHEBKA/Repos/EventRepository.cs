@@ -86,7 +86,6 @@ namespace UCHEBKA.Repos
                 var eventToDelete = _db.Events.Find(eventId);
                 if (eventToDelete != null)
                 {
-                    _db.ActivityEvents.RemoveRange(_db.ActivityEvents.Where(ae => ae.FkEventId == eventId));
                     _db.SectionEvents.RemoveRange(_db.SectionEvents.Where(se => se.FkEventId == eventId));
 
                     _db.Events.Remove(eventToDelete);

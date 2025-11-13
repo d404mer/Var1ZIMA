@@ -15,9 +15,7 @@ public partial class Event
 
     public string? EventLogoUrl { get; set; }
 
-    public virtual ICollection<ActivityEvent> ActivityEvents { get; set; } = new List<ActivityEvent>();
 
-    public virtual ICollection<CityEvent> CityEvents { get; set; } = new List<CityEvent>();
 
     public virtual ICollection<EventEventType> EventEventTypes { get; set; } = new List<EventEventType>();
 

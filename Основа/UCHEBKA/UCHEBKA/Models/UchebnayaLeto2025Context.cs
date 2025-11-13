@@ -15,15 +15,10 @@ public partial class UchebnayaLeto2025Context : DbContext
     {
     }
 
-    public virtual DbSet<Activity> Activities { get; set; }
 
-    public virtual DbSet<ActivityEvent> ActivityEvents { get; set; }
 
-    public virtual DbSet<City> Cities { get; set; }
 
-    public virtual DbSet<CityEvent> CityEvents { get; set; }
 
-    public virtual DbSet<Country> Countries { get; set; }
 
     public virtual DbSet<Event> Events { get; set; }
 
@@ -43,7 +38,6 @@ public partial class UchebnayaLeto2025Context : DbContext
 
     public virtual DbSet<User> Users { get; set; }
 
-    public virtual DbSet<UserCountry> UserCountries { get; set; }
 
     public virtual DbSet<UserEvent> UserEvents { get; set; }
 
@@ -55,95 +49,11 @@ public partial class UchebnayaLeto2025Context : DbContext
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
-        => optionsBuilder.UseSqlServer("Server=USER;Database=UchebnayaLeto2025;Trusted_Connection=True;TrustServerCertificate=True;");
+        => optionsBuilder.UseSqlServer("Server=USER;Database=UchebnayaZIMA;Trusted_Connection=True;TrustServerCertificate=True;");
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.UseCollation("SQL_Latin1_General_CP1_CI_AS");
-
-        modelBuilder.Entity<Activity>(entity =>
-        {
-            entity.HasKey(e => e.ActivityId).HasName("PK__Activity__393F5BA573E56DB6");
-
-            entity.ToTable("Activity");
-
-            entity.Property(e => e.ActivityId)
-                .ValueGeneratedNever()
-                .HasColumnName("Activity_ID");
-            entity.Property(e => e.ActivityName).HasColumnName("Activity_Name");
-            entity.Property(e => e.ActivityScore).HasColumnName("Activity_Score");
-        });
-
-        modelBuilder.Entity<ActivityEvent>(entity =>
-        {
-            entity.HasKey(e => e.ActivityEventId).HasName("PK__Activity__C338358757DE83FD");
-
-            entity.ToTable("Activity_Event");
-
-            entity.Property(e => e.ActivityEventId)
-                .ValueGeneratedNever()
-                .HasColumnName("Activity_Event_ID");
-            entity.Property(e => e.FkActivityId).HasColumnName("FK_Activity_ID");
-            entity.Property(e => e.FkEventId).HasColumnName("FK_Event_ID");
-            entity.Property(e => e.FkModId).HasColumnName("FK_Mod_ID");
-            entity.Property(e => e.StartTime)
-                .HasColumnType("datetime")
-                .HasColumnName("Start_Time");
-
-            entity.HasOne(d => d.FkActivity).WithMany(p => p.ActivityEvents)
-                .HasForeignKey(d => d.FkActivityId)
-                .HasConstraintName("FK_ActivityEvent_Activity");
-
-            entity.HasOne(d => d.FkEvent).WithMany(p => p.ActivityEvents)
-                .HasForeignKey(d => d.FkEventId)
-                .HasConstraintName("FK_ActivityEvent_Event");
-        });
-
-        modelBuilder.Entity<City>(entity =>
-        {
-            entity.HasKey(e => e.CityId).HasName("PK__City__F2D21A960164C04E");
-
-            entity.ToTable("City");
-
-            entity.Property(e => e.CityId)
-                .ValueGeneratedNever()
-                .HasColumnName("CityID");
-            entity.Property(e => e.CityName).HasColumnName("City_Name");
-            entity.Property(e => e.CityUrl).HasColumnName("City_Url");
-        });
-
-        modelBuilder.Entity<CityEvent>(entity =>
-        {
-            entity.HasKey(e => e.CityEventId).HasName("PK__City_Eve__E73D0A9421FACA5B");
-
-            entity.ToTable("City_Event");
-
-            entity.Property(e => e.CityEventId)
-                .ValueGeneratedNever()
-                .HasColumnName("City_Event_ID");
-            entity.Property(e => e.FkCityId).HasColumnName("FK_City_ID");
-            entity.Property(e => e.FkEventId).HasColumnName("FK_Event_ID");
-
-            entity.HasOne(d => d.FkCity).WithMany(p => p.CityEvents)
-                .HasForeignKey(d => d.FkCityId)
-                .HasConstraintName("FK_CityEvent_City");
-
-            entity.HasOne(d => d.FkEvent).WithMany(p => p.CityEvents)
-                .HasForeignKey(d => d.FkEventId)
-                .HasConstraintName("FK_CityEvent_Event");
-        });
-
-        modelBuilder.Entity<Country>(entity =>
-        {
-            entity.HasKey(e => e.CountryCode).HasName("PK__Country__5D9B0D2D9D59B178");
-
-            entity.ToTable("Country");
-
-            entity.Property(e => e.CountryCode).ValueGeneratedNever();
-            entity.Property(e => e.CountryCode2).HasColumnName("Country_Code2");
-            entity.Property(e => e.CountryName).HasColumnName("Country_Name");
-            entity.Property(e => e.CountryNameEn).HasColumnName("Country_Name_EN");
-        });
 
         modelBuilder.Entity<Event>(entity =>
         {
@@ -183,31 +93,7 @@ public partial class UchebnayaLeto2025Context : DbContext
                 .HasConstraintName("FK_EventEventType_Event");
         });
 
-        modelBuilder.Entity<EventJury>(entity =>
-        {
-            entity.HasKey(e => e.EventJuryId).HasName("PK__Event_Ju__D92ACCB5DC74D827");
-
-            entity.ToTable("Event_Jury");
-
-            entity.Property(e => e.EventJuryId)
-                .ValueGeneratedNever()
-                .HasColumnName("Event_Jury_ID");
-            entity.Property(e => e.FkActivityId).HasColumnName("FK_Activity_ID");
-            entity.Property(e => e.FkEventId).HasColumnName("FK_Event_ID");
-            entity.Property(e => e.FkJuryId).HasColumnName("FK_Jury_ID");
-
-            entity.HasOne(d => d.FkActivity).WithMany(p => p.EventJuries)
-                .HasForeignKey(d => d.FkActivityId)
-                .HasConstraintName("FK_EventJury_Activity");
-
-            entity.HasOne(d => d.FkEvent).WithMany(p => p.EventJuries)
-                .HasForeignKey(d => d.FkEventId)
-                .HasConstraintName("FK_EventJury_Event");
-
-            entity.HasOne(d => d.FkJury).WithMany(p => p.EventJuries)
-                .HasForeignKey(d => d.FkJuryId)
-                .HasConstraintName("FK_EventJury_Jury");
-        });
+        
 
         modelBuilder.Entity<EventType>(entity =>
         {
@@ -297,26 +183,7 @@ public partial class UchebnayaLeto2025Context : DbContext
             entity.Property(e => e.UserSurname).HasColumnName("User_Surname");
         });
 
-        modelBuilder.Entity<UserCountry>(entity =>
-        {
-            entity.HasKey(e => e.UserCountryId).HasName("PK__User_Cou__56010421769BD516");
-
-            entity.ToTable("User_Country");
-
-            entity.Property(e => e.UserCountryId)
-                .ValueGeneratedNever()
-                .HasColumnName("User_CountryID");
-            entity.Property(e => e.FkCountryId).HasColumnName("FK_Country_ID");
-            entity.Property(e => e.FkUserId).HasColumnName("FK_User_ID");
-
-            entity.HasOne(d => d.FkCountry).WithMany(p => p.UserCountries)
-                .HasForeignKey(d => d.FkCountryId)
-                .HasConstraintName("FK_UserCountry_Country");
-
-            entity.HasOne(d => d.FkUser).WithMany(p => p.UserCountries)
-                .HasForeignKey(d => d.FkUserId)
-                .HasConstraintName("FK_UserCountry_User");
-        });
+      
 
         modelBuilder.Entity<UserEvent>(entity =>
         {

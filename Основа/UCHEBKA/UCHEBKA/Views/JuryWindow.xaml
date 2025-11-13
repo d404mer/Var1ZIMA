@@ -55,7 +55,7 @@
             <ColumnDefinition Width="63*"/>
         </Grid.ColumnDefinitions>
 
-        
+
         <!-- Левая штука -->
         <TextBlock
              Text="Окно жюри"
@@ -69,8 +69,8 @@
         <StackPanel
             Style="{StaticResource CenterPanelStyle}"
             Margin="0,1,0,0"  Height="320" Grid.Row="1" Width="150">
-                    <Border Style="{StaticResource ImageBorderStyle}">
-                        <Image x:Name="ProfileImage"
+            <Border Style="{StaticResource ImageBorderStyle}">
+                <Image x:Name="ProfileImage"
                 HorizontalAlignment="Center"
                 Stretch="UniformToFill"
                 VerticalAlignment="Center"/>
@@ -78,42 +78,12 @@
 
             <Button x:Name="ProfileBtn"
                 Style="{StaticResource ProfileButtonStyle}" Click="ProfileBtn_Click">
-                        <TextBlock TextAlignment="Center"> Изменить <LineBreak/> профиль</TextBlock>
-                    </Button>
+                <TextBlock TextAlignment="Center"> Изменить <LineBreak/> профиль</TextBlock>
+            </Button>
         </StackPanel>
 
 
 
 
-        <!-- Правая часть - активности для оценки -->
-        <ListView 
-            Grid.Column="1"
-            x:Name="ActivitiesListView" 
-            ItemsSource="{Binding ActivitiesToRate}" Margin="0,82,0,0" Grid.RowSpan="2">
-            <ListView.View>
-                <GridView>
-                    <GridViewColumn Header="Мероприятие" DisplayMemberBinding="{Binding Event.EventTitle}" Width="200"/>
-                    <GridViewColumn Header="ID Акт" DisplayMemberBinding="{Binding Activity.ActivityId}" Width="Auto"/>
-                    <GridViewColumn Header="Активность" DisplayMemberBinding="{Binding Activity.ActivityName}" Width="200"/>
-                    <GridViewColumn Header="День" DisplayMemberBinding="{Binding Day}" Width="80"/>
-                    <GridViewColumn Header="Время начала" DisplayMemberBinding="{Binding StartTime, StringFormat='{}{0:HH:mm}'}" Width="100"/>
-                    <GridViewColumn Header="Оценка" Width="120">
-                        <GridViewColumn.CellTemplate>
-                            <DataTemplate>
-                                <ComboBox SelectedValue="{Binding Rating, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
-          SelectedValuePath="Content"
-          SelectionChanged="RatingComboBox_SelectionChanged">
-                                    <ComboBoxItem>1</ComboBoxItem>
-                                    <ComboBoxItem>2</ComboBoxItem>
-                                    <ComboBoxItem>3</ComboBoxItem>
-                                    <ComboBoxItem>4</ComboBoxItem>
-                                    <ComboBoxItem>5</ComboBoxItem>
-                                </ComboBox>
-                            </DataTemplate>
-                        </GridViewColumn.CellTemplate>
-                    </GridViewColumn>
-                </GridView>
-            </ListView.View>
-        </ListView>
     </Grid>
 </Window>

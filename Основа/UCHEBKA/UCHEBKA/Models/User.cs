@@ -25,7 +25,6 @@ public partial class User
 
     public virtual ICollection<EventJury> EventJuries { get; set; } = new List<EventJury>();
 
-    public virtual ICollection<UserCountry> UserCountries { get; set; } = new List<UserCountry>();
 
     public virtual ICollection<UserEvent> UserEvents { get; set; } = new List<UserEvent>();
 
