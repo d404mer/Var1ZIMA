@@ -1,0 +1,49 @@
+﻿<Window x:Class="UCHEBKA.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UCHEBKA"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        MinHeight="450" MinWidth="850"
+        Title="Мероприятия" Height="450" Width="850">
+    <Grid>
+        <!-- Основной контейнер -->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Панель фильтров -->
+        <StackPanel Grid.Row="0" Orientation="Horizontal" Margin="10">
+            <ComboBox x:Name="MyComboBox" Width="200" Margin="0,0,10,0" 
+                     DisplayMemberPath="SecName"
+                     SelectedValuePath="SecId"
+                     SelectionChanged="ComboBox_SelectionChanged"/>
+            <Button x:Name="DatePickerButton" Content="Выбрать дату" Margin="0,0,10,0" Click="DatePickerButton_Click"/>
+            <Button Content="Сбросить фильтры" Margin="0,0,10,0" Click="ResetFilters_Click"/>
+            <Button Content="Авторизация" Margin="0,0,10,0" 
+                    Click="AuthButton_Click" />
+        </StackPanel>
+
+        <!-- Выбранная дата -->
+        <TextBlock x:Name="SelectedDateText" Grid.Row="1" Margin="10,0" FontWeight="Bold"/>
+
+        <!-- Список карточек с возможностью прокрутки -->
+        <ScrollViewer HorizontalAlignment="Center" Grid.Row="2" VerticalScrollBarVisibility="Auto">
+            <WrapPanel x:Name="EventsWrapPanel" Margin="10"/>
+        </ScrollViewer>
+
+        <!-- Календарь (скрыт по умолчанию, поверх других элементов) -->
+        <Calendar x:Name="MyCalendar" Grid.Row="0" Grid.RowSpan="3"
+                 Visibility="Collapsed"
+                 Panel.ZIndex="100"
+                 HorizontalAlignment="Left"
+                 VerticalAlignment="Top"
+                 Margin="100,50,0,0"
+                 Background="White"
+                 SelectedDatesChanged="MyCalendar_SelectedDatesChanged"/>
+    </Grid>
+</Window>
