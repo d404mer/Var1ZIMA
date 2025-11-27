@@ -1,0 +1,94 @@
+﻿<Window x:Class="UCHEBKA.Views.Helpers.ParticipantsDatagrid"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        WindowStartupLocation="CenterScreen"
+        
+        xmlns:local="clr-namespace:UCHEBKA.Views.Helpers"
+        mc:Ignorable="d"
+        Title="ParticipantsDatagrid" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Button 
+HorizontalAlignment="Left" 
+VerticalAlignment="Center" 
+Content="←" 
+Width="100" 
+Margin="5, 0, 0, 10" 
+Height="20" Click="Button_Click" />
+
+        <StackPanel Grid.Row="0" Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,0,0,10">
+            <Button Content="Обновить" Width="100" Margin="5" Click="RefreshButton_Click"/>
+            <Button Content="Добавить" Width="100" Margin="5" Click="AddButton_Click"/>
+        </StackPanel>
+        
+        
+        <DataGrid x:Name="UsersWithRole1DataGrid" 
+          AutoGenerateColumns="False"
+          Grid.Row="1"
+          IsReadOnly="True"
+          SelectionMode="Single"
+          CanUserAddRows="False">
+            
+            
+            <DataGrid.Columns>
+                <!-- ID пользователя -->
+                <DataGridTextColumn Header="User ID" 
+                          Binding="{Binding FkUser.UserId}" 
+                          Width="Auto"/>
+
+                <!-- Логин пользователя -->
+                <DataGridTextColumn Header="Отчество" 
+                          Binding="{Binding FkUser.UserName}" 
+                          Width="Auto"/>
+
+                <!-- Имя пользователя -->
+                <DataGridTextColumn Header="Имя" 
+                          Binding="{Binding FkUser.UserSurname}" 
+                          Width="Auto"/>
+
+                <!-- Фамилия пользователя -->
+                <DataGridTextColumn Header="Фамилия" 
+                          Binding="{Binding FkUser.UserLastname}" 
+                          Width="Auto"/>
+
+                <!-- Название роли -->
+                <DataGridTextColumn Header="Роль" 
+                          Binding="{Binding FkRole.RoleName}" 
+                          Width="Auto"/>
+
+                <DataGridTextColumn Header="Почта" 
+               Binding="{Binding FkUser.UserEmail}" 
+               Width="Auto"/>
+
+                <DataGridTextColumn Header="Дата рождения" 
+                Binding="{Binding FkUser.UserBirthDay}" 
+                Width="Auto"/>
+
+
+                <DataGridTextColumn Header="Номер" 
+                Binding="{Binding FkUser.UserPhone}" 
+                Width="Auto"/>
+                
+                <DataGridTextColumn Header="Пароль" 
+            Binding="{Binding FkUser.UserPassword}" 
+            Width="Auto"/>
+
+                <DataGridTextColumn Header="Фото" 
+            Binding="{Binding FkUser.UserPhoto}" 
+            Width="*"/>
+
+                <!-- ID роли (скрытая колонка для фильтрации) -->
+                <DataGridTextColumn Header="Role ID" 
+                          Binding="{Binding FkRoleId}" 
+                          Width="Auto"
+                          Visibility="Hidden"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

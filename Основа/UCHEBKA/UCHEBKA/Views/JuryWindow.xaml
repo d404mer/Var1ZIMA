@@ -1,0 +1,89 @@
+﻿<Window x:Class="UCHEBKA.JuryWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:UCHEBKA.Views"
+        MinHeight="600"
+        MinWidth="1200"
+        MaxHeight="601"
+        MaxWidth="1201"
+        Title="Окно жюри" Height="600" Width="1200"
+        WindowStartupLocation="CenterScreen">
+
+    <Window.Resources>
+        <Style x:Key="RightPanelButtonStyle" TargetType="Button">
+            <Setter Property="Margin" Value="0,5"/>
+            <Setter Property="FontSize" Value="26"/>
+            <Setter Property="Height" Value="80"/>
+            <Setter Property="Width" Value="300"/>
+        </Style>
+
+        <Style x:Key="CenterPanelStyle" TargetType="StackPanel">
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+        </Style>
+
+        <Style x:Key="HeaderTextStyle" TargetType="TextBlock">
+            <Setter Property="FontSize" Value="30"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+            <Setter Property="Margin" Value="0,10"/>
+        </Style>
+
+        <Style x:Key="ImageBorderStyle" TargetType="Border">
+            <Setter Property="Width" Value="150"/>
+            <Setter Property="Height" Value="230"/>
+            <Setter Property="Margin" Value="0,0,0,20"/>
+            <Setter Property="CornerRadius" Value="4"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="BorderBrush" Value="LightGray"/>
+        </Style>
+
+        <Style x:Key="ProfileButtonStyle" TargetType="Button">
+            <Setter Property="Width" Value="150"/>
+            <Setter Property="Height" Value="70"/>
+            <Setter Property="FontSize" Value="20"/>
+        </Style>
+    </Window.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="61*"/>
+            <RowDefinition Height="373*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="17*"/>
+            <ColumnDefinition Width="63*"/>
+        </Grid.ColumnDefinitions>
+
+
+        <!-- Левая штука -->
+        <TextBlock
+             Text="Окно жюри"
+             Style="{StaticResource HeaderTextStyle}" 
+            Grid.ColumnSpan="2"
+            HorizontalAlignment="Center" 
+            Margin="46,10,0,10" 
+            Width="233"/>
+
+
+        <StackPanel
+            Style="{StaticResource CenterPanelStyle}"
+            Margin="0,1,0,0"  Height="320" Grid.Row="1" Width="150">
+            <Border Style="{StaticResource ImageBorderStyle}">
+                <Image x:Name="ProfileImage"
+                HorizontalAlignment="Center"
+                Stretch="UniformToFill"
+                VerticalAlignment="Center"/>
+            </Border>
+
+            <Button x:Name="ProfileBtn"
+                Style="{StaticResource ProfileButtonStyle}" Click="ProfileBtn_Click">
+                <TextBlock TextAlignment="Center"> Изменить <LineBreak/> профиль</TextBlock>
+            </Button>
+        </StackPanel>
+
+
+
+
+    </Grid>
+</Window>

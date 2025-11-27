@@ -1,0 +1,513 @@
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\UCHEBKA.csproj.AssemblyReference.cache
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\OrgWindow.baml
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\ProfileWindow.baml
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\UserEditWindow.baml
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\AdminWindow.g.cs
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\AuthWindow.g.cs
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\Helpers\EventCard.g.cs
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\Helpers\EventEditWindow.g.cs
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\Helpers\EventsDatagrid.g.cs
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\Helpers\JuryDaragrid.g.cs
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\Helpers\ParticipantsDatagrid.g.cs
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\JuryWindow.g.cs
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\OrgWindow.g.cs
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\ParticipantWindow.g.cs
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\ProfileWindow.g.cs
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\UserEditWindow.g.cs
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\App.g.cs
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\UCHEBKA_MarkupCompile.cache
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\UCHEBKA_MarkupCompile.lref
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\UCHEBKA.exe
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\UCHEBKA.deps.json
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\UCHEBKA.runtimeconfig.json
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\UCHEBKA.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\UCHEBKA.pdb
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Humanizer.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\MainWindow.baml
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\AdminWindow.baml
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\AuthWindow.baml
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\Helpers\EventCard.baml
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\Helpers\EventEditWindow.baml
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\Helpers\EventsDatagrid.baml
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\Helpers\JuryDaragrid.baml
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\Helpers\ParticipantsDatagrid.baml
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\JuryWindow.baml
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\ParticipantWindow.baml
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\UCHEBKA.g.resources
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\UCHEBKA.GeneratedMSBuildEditorConfig.editorconfig
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\UCHEBKA.AssemblyInfoInputs.cache
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\UCHEBKA.AssemblyInfo.cs
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\UCHEBKA.csproj.CoreCompileInputs.cache
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\UCHEBKA.sourcelink.json
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\UCHEBKA.csproj.Up2Date
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\UCHEBKA.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\refint\UCHEBKA.dll
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\UCHEBKA.pdb
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\UCHEBKA.genruntimeconfig.cache
+D:\CIT KAI\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\ref\UCHEBKA.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\UCHEBKA.exe
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\UCHEBKA.deps.json
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\UCHEBKA.runtimeconfig.json
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\UCHEBKA.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\UCHEBKA.pdb
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Humanizer.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\UCHEBKA.csproj.AssemblyReference.cache
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\OrgWindow.baml
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\ProfileWindow.baml
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\UserEditWindow.baml
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\AdminWindow.g.cs
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\AuthWindow.g.cs
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\Helpers\EventCard.g.cs
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\Helpers\EventEditWindow.g.cs
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\Helpers\EventsDatagrid.g.cs
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\Helpers\JuryDaragrid.g.cs
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\Helpers\ParticipantsDatagrid.g.cs
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\JuryWindow.g.cs
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\OrgWindow.g.cs
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\ParticipantWindow.g.cs
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\ProfileWindow.g.cs
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\UserEditWindow.g.cs
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\App.g.cs
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\UCHEBKA_MarkupCompile.cache
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\UCHEBKA_MarkupCompile.lref
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\MainWindow.baml
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\AdminWindow.baml
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\AuthWindow.baml
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\Helpers\EventCard.baml
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\Helpers\EventEditWindow.baml
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\Helpers\EventsDatagrid.baml
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\Helpers\JuryDaragrid.baml
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\Helpers\ParticipantsDatagrid.baml
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\JuryWindow.baml
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\ParticipantWindow.baml
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\UCHEBKA.g.resources
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\UCHEBKA.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\UCHEBKA.AssemblyInfoInputs.cache
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\UCHEBKA.AssemblyInfo.cs
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\UCHEBKA.csproj.CoreCompileInputs.cache
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\UCHEBKA.sourcelink.json
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\UCHEBKA.csproj.Up2Date
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\UCHEBKA.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\refint\UCHEBKA.dll
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\UCHEBKA.pdb
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\UCHEBKA.genruntimeconfig.cache
+D:\VSC\Uchebnaya2025Leto\! Proj\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\ref\UCHEBKA.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\UCHEBKA.csproj.AssemblyReference.cache
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\OrgWindow.baml
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\ProfileWindow.baml
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\UserEditWindow.baml
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\AdminWindow.g.cs
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\AuthWindow.g.cs
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\Helpers\EventCard.g.cs
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\Helpers\EventEditWindow.g.cs
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\Helpers\EventsDatagrid.g.cs
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\Helpers\JuryDaragrid.g.cs
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\Helpers\ParticipantsDatagrid.g.cs
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\JuryWindow.g.cs
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\OrgWindow.g.cs
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\ParticipantWindow.g.cs
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\ProfileWindow.g.cs
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\UserEditWindow.g.cs
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\App.g.cs
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\UCHEBKA_MarkupCompile.cache
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\UCHEBKA_MarkupCompile.lref
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\UCHEBKA.exe
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\UCHEBKA.deps.json
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\UCHEBKA.runtimeconfig.json
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\UCHEBKA.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\UCHEBKA.pdb
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Humanizer.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\MainWindow.baml
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\AdminWindow.baml
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\AuthWindow.baml
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\Helpers\EventCard.baml
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\Helpers\EventEditWindow.baml
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\Helpers\EventsDatagrid.baml
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\Helpers\JuryDaragrid.baml
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\Helpers\ParticipantsDatagrid.baml
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\JuryWindow.baml
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\Views\ParticipantWindow.baml
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\UCHEBKA.g.resources
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\UCHEBKA.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\UCHEBKA.AssemblyInfoInputs.cache
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\UCHEBKA.AssemblyInfo.cs
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\UCHEBKA.csproj.CoreCompileInputs.cache
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\UCHEBKA.sourcelink.json
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\UCHEBKA.csproj.Up2Date
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\UCHEBKA.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\refint\UCHEBKA.dll
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\UCHEBKA.pdb
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\UCHEBKA.genruntimeconfig.cache
+D:\VSC\Uchebnaya2024ZIMA\Var1ZIMA\Основа\UCHEBKA\UCHEBKA\obj\Debug\net8.0-windows\ref\UCHEBKA.dll
