@@ -26,6 +26,9 @@ namespace UCHEBKA
         private readonly UchebnayaLeto2025Context _db;
         private User _currentUser;
 
+        /// <summary>
+        /// Инициализирует новый экземпляр окна участника
+        /// </summary>
         public ParticipantWindow()
         {
             InitializeComponent();

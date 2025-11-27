@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "D:\\VSC\\Uchebnaya2024ZIMA\\Var1ZIMA\\\u041E\u0441\u043D\u043E\u0432\u0430\\UCHEBKA\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FDF22A72-A742-4139-B2E3-6BD53E8005F4}|UCHEBKA\\UCHEBKA.csproj|d:\\vsc\\uchebnaya2024zima\\var1zima\\\u043E\u0441\u043D\u043E\u0432\u0430\\uchebka\\uchebka\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF22A72-A742-4139-B2E3-6BD53E8005F4}|UCHEBKA\\UCHEBKA.csproj|solutionrelative:uchebka\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF22A72-A742-4139-B2E3-6BD53E8005F4}|UCHEBKA\\UCHEBKA.csproj|d:\\vsc\\uchebnaya2024zima\\var1zima\\\u043E\u0441\u043D\u043E\u0432\u0430\\uchebka\\uchebka\\repos\\sexrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF22A72-A742-4139-B2E3-6BD53E8005F4}|UCHEBKA\\UCHEBKA.csproj|solutionrelative:uchebka\\repos\\sexrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF22A72-A742-4139-B2E3-6BD53E8005F4}|UCHEBKA\\UCHEBKA.csproj|d:\\vsc\\uchebnaya2024zima\\var1zima\\\u043E\u0441\u043D\u043E\u0432\u0430\\uchebka\\uchebka\\repos\\sectionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF22A72-A742-4139-B2E3-6BD53E8005F4}|UCHEBKA\\UCHEBKA.csproj|solutionrelative:uchebka\\repos\\sectionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF22A72-A742-4139-B2E3-6BD53E8005F4}|UCHEBKA\\UCHEBKA.csproj|d:\\vsc\\uchebnaya2024zima\\var1zima\\\u043E\u0441\u043D\u043E\u0432\u0430\\uchebka\\uchebka\\repos\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF22A72-A742-4139-B2E3-6BD53E8005F4}|UCHEBKA\\UCHEBKA.csproj|solutionrelative:uchebka\\repos\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF22A72-A742-4139-B2E3-6BD53E8005F4}|UCHEBKA\\UCHEBKA.csproj|d:\\vsc\\uchebnaya2024zima\\var1zima\\\u043E\u0441\u043D\u043E\u0432\u0430\\uchebka\\uchebka\\repos\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF22A72-A742-4139-B2E3-6BD53E8005F4}|UCHEBKA\\UCHEBKA.csproj|solutionrelative:uchebka\\repos\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FDF22A72-A742-4139-B2E3-6BD53E8005F4}|UCHEBKA\\UCHEBKA.csproj|d:\\vsc\\uchebnaya2024zima\\var1zima\\\u043E\u0441\u043D\u043E\u0432\u0430\\uchebka\\uchebka\\repos\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FDF22A72-A742-4139-B2E3-6BD53E8005F4}|UCHEBKA\\UCHEBKA.csproj|solutionrelative:uchebka\\repos\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF22A72-A742-4139-B2E3-6BD53E8005F4}|UCHEBKA\\UCHEBKA.csproj|d:\\vsc\\uchebnaya2024zima\\var1zima\\\u043E\u0441\u043D\u043E\u0432\u0430\\uchebka\\uchebka\\repos\\activityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF22A72-A742-4139-B2E3-6BD53E8005F4}|UCHEBKA\\UCHEBKA.csproj|solutionrelative:uchebka\\repos\\activityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FDF22A72-A742-4139-B2E3-6BD53E8005F4}|UCHEBKA\\UCHEBKA.csproj|d:\\vsc\\uchebnaya2024zima\\var1zima\\\u043E\u0441\u043D\u043E\u0432\u0430\\uchebka\\uchebka\\views\\helpers\\eventcard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,10 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FDF22A72-A742-4139-B2E3-6BD53E8005F4}|UCHEBKA\\UCHEBKA.csproj|d:\\vsc\\uchebnaya2024zima\\var1zima\\\u043E\u0441\u043D\u043E\u0432\u0430\\uchebka\\uchebka\\views\\helpers\\converters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FDF22A72-A742-4139-B2E3-6BD53E8005F4}|UCHEBKA\\UCHEBKA.csproj|solutionrelative:uchebka\\views\\helpers\\converters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDF22A72-A742-4139-B2E3-6BD53E8005F4}|UCHEBKA\\UCHEBKA.csproj|d:\\vsc\\uchebnaya2024zima\\var1zima\\\u043E\u0441\u043D\u043E\u0432\u0430\\uchebka\\uchebka\\repos\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDF22A72-A742-4139-B2E3-6BD53E8005F4}|UCHEBKA\\UCHEBKA.csproj|solutionrelative:uchebka\\repos\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FDF22A72-A742-4139-B2E3-6BD53E8005F4}|UCHEBKA\\UCHEBKA.csproj|d:\\vsc\\uchebnaya2024zima\\var1zima\\\u043E\u0441\u043D\u043E\u0432\u0430\\uchebka\\uchebka\\views\\participantwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -69,22 +89,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FDF22A72-A742-4139-B2E3-6BD53E8005F4}|UCHEBKA\\UCHEBKA.csproj|d:\\vsc\\uchebnaya2024zima\\var1zima\\\u043E\u0441\u043D\u043E\u0432\u0430\\uchebka\\uchebka\\views\\usereditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{FDF22A72-A742-4139-B2E3-6BD53E8005F4}|UCHEBKA\\UCHEBKA.csproj|solutionrelative:uchebka\\views\\usereditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDF22A72-A742-4139-B2E3-6BD53E8005F4}|UCHEBKA\\UCHEBKA.csproj|d:\\vsc\\uchebnaya2024zima\\var1zima\\\u043E\u0441\u043D\u043E\u0432\u0430\\uchebka\\uchebka\\repos\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDF22A72-A742-4139-B2E3-6BD53E8005F4}|UCHEBKA\\UCHEBKA.csproj|solutionrelative:uchebka\\repos\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDF22A72-A742-4139-B2E3-6BD53E8005F4}|UCHEBKA\\UCHEBKA.csproj|d:\\vsc\\uchebnaya2024zima\\var1zima\\\u043E\u0441\u043D\u043E\u0432\u0430\\uchebka\\uchebka\\repos\\sexrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDF22A72-A742-4139-B2E3-6BD53E8005F4}|UCHEBKA\\UCHEBKA.csproj|solutionrelative:uchebka\\repos\\sexrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDF22A72-A742-4139-B2E3-6BD53E8005F4}|UCHEBKA\\UCHEBKA.csproj|d:\\vsc\\uchebnaya2024zima\\var1zima\\\u043E\u0441\u043D\u043E\u0432\u0430\\uchebka\\uchebka\\repos\\sectionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDF22A72-A742-4139-B2E3-6BD53E8005F4}|UCHEBKA\\UCHEBKA.csproj|solutionrelative:uchebka\\repos\\sectionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDF22A72-A742-4139-B2E3-6BD53E8005F4}|UCHEBKA\\UCHEBKA.csproj|d:\\vsc\\uchebnaya2024zima\\var1zima\\\u043E\u0441\u043D\u043E\u0432\u0430\\uchebka\\uchebka\\repos\\activityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDF22A72-A742-4139-B2E3-6BD53E8005F4}|UCHEBKA\\UCHEBKA.csproj|solutionrelative:uchebka\\repos\\activityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FDF22A72-A742-4139-B2E3-6BD53E8005F4}|UCHEBKA\\UCHEBKA.csproj|d:\\vsc\\uchebnaya2024zima\\var1zima\\\u043E\u0441\u043D\u043E\u0432\u0430\\uchebka\\uchebka\\models\\uchebnayaleto2025context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -161,7 +165,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 445,
-          "SelectedChildIndex": 31,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -173,20 +177,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 0,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\VSC\\Uchebnaya2024ZIMA\\Var1ZIMA\\\u041E\u0441\u043D\u043E\u0432\u0430\\UCHEBKA\\UCHEBKA\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "UCHEBKA\\AssemblyInfo.cs",
+              "ToolTip": "D:\\VSC\\Uchebnaya2024ZIMA\\Var1ZIMA\\\u041E\u0441\u043D\u043E\u0432\u0430\\UCHEBKA\\UCHEBKA\\AssemblyInfo.cs",
+              "RelativeToolTip": "UCHEBKA\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T16:07:07.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ActivityRepository.cs",
               "DocumentMoniker": "D:\\VSC\\Uchebnaya2024ZIMA\\Var1ZIMA\\\u041E\u0441\u043D\u043E\u0432\u0430\\UCHEBKA\\UCHEBKA\\Repos\\ActivityRepository.cs",
               "RelativeDocumentMoniker": "UCHEBKA\\Repos\\ActivityRepository.cs",
               "ToolTip": "D:\\VSC\\Uchebnaya2024ZIMA\\Var1ZIMA\\\u041E\u0441\u043D\u043E\u0432\u0430\\UCHEBKA\\UCHEBKA\\Repos\\ActivityRepository.cs",
               "RelativeToolTip": "UCHEBKA\\Repos\\ActivityRepository.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAYwB0AAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T15:33:36.164Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-27T15:33:36.164Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "AdminWindow.xaml.cs",
               "DocumentMoniker": "D:\\VSC\\Uchebnaya2024ZIMA\\Var1ZIMA\\\u041E\u0441\u043D\u043E\u0432\u0430\\UCHEBKA\\UCHEBKA\\Views\\AdminWindow.xaml.cs",
               "RelativeDocumentMoniker": "UCHEBKA\\Views\\AdminWindow.xaml.cs",
@@ -194,12 +210,11 @@
               "RelativeToolTip": "UCHEBKA\\Views\\AdminWindow.xaml.cs",
               "ViewState": "AgIAABUAAAAAAAAAAADgvyIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T08:55:23.06Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T08:55:23.06Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "AuthWindow.xaml.cs",
               "DocumentMoniker": "D:\\VSC\\Uchebnaya2024ZIMA\\Var1ZIMA\\\u041E\u0441\u043D\u043E\u0432\u0430\\UCHEBKA\\UCHEBKA\\Views\\AuthWindow.xaml.cs",
               "RelativeDocumentMoniker": "UCHEBKA\\Views\\AuthWindow.xaml.cs",
@@ -207,48 +222,44 @@
               "RelativeToolTip": "UCHEBKA\\Views\\AuthWindow.xaml.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAIBJwLwAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T08:44:29.915Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-10T08:44:29.915Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "EventEditWindow.xaml",
               "DocumentMoniker": "D:\\VSC\\Uchebnaya2024ZIMA\\Var1ZIMA\\\u041E\u0441\u043D\u043E\u0432\u0430\\UCHEBKA\\UCHEBKA\\Views\\Helpers\\EventEditWindow.xaml",
               "RelativeDocumentMoniker": "UCHEBKA\\Views\\Helpers\\EventEditWindow.xaml",
               "ToolTip": "D:\\VSC\\Uchebnaya2024ZIMA\\Var1ZIMA\\\u041E\u0441\u043D\u043E\u0432\u0430\\UCHEBKA\\UCHEBKA\\Views\\Helpers\\EventEditWindow.xaml",
               "RelativeToolTip": "UCHEBKA\\Views\\Helpers\\EventEditWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-09T12:28:29.306Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T12:28:29.306Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "EventsDatagrid.xaml",
               "DocumentMoniker": "D:\\VSC\\Uchebnaya2024ZIMA\\Var1ZIMA\\\u041E\u0441\u043D\u043E\u0432\u0430\\UCHEBKA\\UCHEBKA\\Views\\Helpers\\EventsDatagrid.xaml",
               "RelativeDocumentMoniker": "UCHEBKA\\Views\\Helpers\\EventsDatagrid.xaml",
               "ToolTip": "D:\\VSC\\Uchebnaya2024ZIMA\\Var1ZIMA\\\u041E\u0441\u043D\u043E\u0432\u0430\\UCHEBKA\\UCHEBKA\\Views\\Helpers\\EventsDatagrid.xaml",
               "RelativeToolTip": "UCHEBKA\\Views\\Helpers\\EventsDatagrid.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-09T12:28:27.022Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T12:28:27.022Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "AdminWindow.xaml",
               "DocumentMoniker": "D:\\VSC\\Uchebnaya2024ZIMA\\Var1ZIMA\\\u041E\u0441\u043D\u043E\u0432\u0430\\UCHEBKA\\UCHEBKA\\Views\\AdminWindow.xaml",
               "RelativeDocumentMoniker": "UCHEBKA\\Views\\AdminWindow.xaml",
               "ToolTip": "D:\\VSC\\Uchebnaya2024ZIMA\\Var1ZIMA\\\u041E\u0441\u043D\u043E\u0432\u0430\\UCHEBKA\\UCHEBKA\\Views\\AdminWindow.xaml",
               "RelativeToolTip": "UCHEBKA\\Views\\AdminWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-09T12:28:15.542Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T12:28:15.542Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "UchebnayaLeto2025Context.cs",
               "DocumentMoniker": "D:\\VSC\\Uchebnaya2024ZIMA\\Var1ZIMA\\\u041E\u0441\u043D\u043E\u0432\u0430\\UCHEBKA\\UCHEBKA\\Models\\UchebnayaLeto2025Context.cs",
               "RelativeDocumentMoniker": "UCHEBKA\\Models\\UchebnayaLeto2025Context.cs",
@@ -256,12 +267,11 @@
               "RelativeToolTip": "UCHEBKA\\Models\\UchebnayaLeto2025Context.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T07:55:46.019Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T07:55:46.019Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "ExecutionContext.cs",
               "DocumentMoniker": "C:\\Users\\user\\AppData\\Local\\SourceServer\\ba82a3e0eeca3d36cae511c039d53e286f35c755d01ad944a389768870e70abd\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\ExecutionContext.cs",
               "ToolTip": "C:\\Users\\user\\AppData\\Local\\SourceServer\\ba82a3e0eeca3d36cae511c039d53e286f35c755d01ad944a389768870e70abd\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\ExecutionContext.cs",
@@ -270,31 +280,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "UserEditWindow.xaml",
               "DocumentMoniker": "D:\\VSC\\Uchebnaya2024ZIMA\\Var1ZIMA\\\u041E\u0441\u043D\u043E\u0432\u0430\\UCHEBKA\\UCHEBKA\\Views\\UserEditWindow.xaml",
               "RelativeDocumentMoniker": "UCHEBKA\\Views\\UserEditWindow.xaml",
               "ToolTip": "D:\\VSC\\Uchebnaya2024ZIMA\\Var1ZIMA\\\u041E\u0441\u043D\u043E\u0432\u0430\\UCHEBKA\\UCHEBKA\\Views\\UserEditWindow.xaml",
               "RelativeToolTip": "UCHEBKA\\Views\\UserEditWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-08T14:40:48.483Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-08T14:40:48.483Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "ParticipantWindow.xaml",
               "DocumentMoniker": "D:\\VSC\\Uchebnaya2024ZIMA\\Var1ZIMA\\\u041E\u0441\u043D\u043E\u0432\u0430\\UCHEBKA\\UCHEBKA\\Views\\ParticipantWindow.xaml",
               "RelativeDocumentMoniker": "UCHEBKA\\Views\\ParticipantWindow.xaml",
               "ToolTip": "D:\\VSC\\Uchebnaya2024ZIMA\\Var1ZIMA\\\u041E\u0441\u043D\u043E\u0432\u0430\\UCHEBKA\\UCHEBKA\\Views\\ParticipantWindow.xaml",
               "RelativeToolTip": "UCHEBKA\\Views\\ParticipantWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-08T14:16:33.363Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-08T14:16:33.363Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "OrgWindow.xaml.cs",
               "DocumentMoniker": "D:\\VSC\\Uchebnaya2024ZIMA\\Var1ZIMA\\\u041E\u0441\u043D\u043E\u0432\u0430\\UCHEBKA\\UCHEBKA\\Views\\OrgWindow.xaml.cs",
               "RelativeDocumentMoniker": "UCHEBKA\\Views\\OrgWindow.xaml.cs",
@@ -302,25 +310,24 @@
               "RelativeToolTip": "UCHEBKA\\Views\\OrgWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T15:41:29.017Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-07T15:41:29.017Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 1,
               "Title": "SexRepository.cs",
               "DocumentMoniker": "D:\\VSC\\Uchebnaya2024ZIMA\\Var1ZIMA\\\u041E\u0441\u043D\u043E\u0432\u0430\\UCHEBKA\\UCHEBKA\\Repos\\SexRepository.cs",
               "RelativeDocumentMoniker": "UCHEBKA\\Repos\\SexRepository.cs",
               "ToolTip": "D:\\VSC\\Uchebnaya2024ZIMA\\Var1ZIMA\\\u041E\u0441\u043D\u043E\u0432\u0430\\UCHEBKA\\UCHEBKA\\Repos\\SexRepository.cs",
               "RelativeToolTip": "UCHEBKA\\Repos\\SexRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-07T15:40:28.603Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 3,
               "Title": "RoleRepository.cs",
               "DocumentMoniker": "D:\\VSC\\Uchebnaya2024ZIMA\\Var1ZIMA\\\u041E\u0441\u043D\u043E\u0432\u0430\\UCHEBKA\\UCHEBKA\\Repos\\RoleRepository.cs",
               "RelativeDocumentMoniker": "UCHEBKA\\Repos\\RoleRepository.cs",
@@ -333,7 +340,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "ParticipantsDatagrid.xaml.cs",
               "DocumentMoniker": "D:\\VSC\\Uchebnaya2024ZIMA\\Var1ZIMA\\\u041E\u0441\u043D\u043E\u0432\u0430\\UCHEBKA\\UCHEBKA\\Views\\Helpers\\ParticipantsDatagrid.xaml.cs",
               "RelativeDocumentMoniker": "UCHEBKA\\Views\\Helpers\\ParticipantsDatagrid.xaml.cs",
@@ -341,12 +348,11 @@
               "RelativeToolTip": "UCHEBKA\\Views\\Helpers\\ParticipantsDatagrid.xaml.cs",
               "ViewState": "AgIAADgAAAAAAAAAAAAwwEYAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T15:05:12.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-07T15:05:12.521Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "Section.cs",
               "DocumentMoniker": "D:\\VSC\\Uchebnaya2024ZIMA\\Var1ZIMA\\\u041E\u0441\u043D\u043E\u0432\u0430\\UCHEBKA\\UCHEBKA\\Models\\Section.cs",
               "RelativeDocumentMoniker": "UCHEBKA\\Models\\Section.cs",
@@ -354,25 +360,24 @@
               "RelativeToolTip": "UCHEBKA\\Models\\Section.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T14:54:50.531Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-07T14:54:50.531Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "D:\\VSC\\Uchebnaya2024ZIMA\\Var1ZIMA\\\u041E\u0441\u043D\u043E\u0432\u0430\\UCHEBKA\\UCHEBKA\\Repos\\UserRepository.cs",
               "RelativeDocumentMoniker": "UCHEBKA\\Repos\\UserRepository.cs",
               "ToolTip": "D:\\VSC\\Uchebnaya2024ZIMA\\Var1ZIMA\\\u041E\u0441\u043D\u043E\u0432\u0430\\UCHEBKA\\UCHEBKA\\Repos\\UserRepository.cs",
               "RelativeToolTip": "UCHEBKA\\Repos\\UserRepository.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwGoAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAswBwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-07T14:47:59.056Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "UserEditWindow.xaml.cs",
               "DocumentMoniker": "D:\\VSC\\Uchebnaya2024ZIMA\\Var1ZIMA\\\u041E\u0441\u043D\u043E\u0432\u0430\\UCHEBKA\\UCHEBKA\\Views\\UserEditWindow.xaml.cs",
               "RelativeDocumentMoniker": "UCHEBKA\\Views\\UserEditWindow.xaml.cs",
@@ -380,12 +385,11 @@
               "RelativeToolTip": "UCHEBKA\\Views\\UserEditWindow.xaml.cs",
               "ViewState": "AgIAAMEAAAAAAAAAAAAuwH0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T14:47:34.567Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-07T14:47:34.567Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "JuryDaragrid.xaml.cs",
               "DocumentMoniker": "D:\\VSC\\Uchebnaya2024ZIMA\\Var1ZIMA\\\u041E\u0441\u043D\u043E\u0432\u0430\\UCHEBKA\\UCHEBKA\\Views\\Helpers\\JuryDaragrid.xaml.cs",
               "RelativeDocumentMoniker": "UCHEBKA\\Views\\Helpers\\JuryDaragrid.xaml.cs",
@@ -393,12 +397,11 @@
               "RelativeToolTip": "UCHEBKA\\Views\\Helpers\\JuryDaragrid.xaml.cs",
               "ViewState": "AgIAADIAAAAAAAAAAAAgwD4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T14:46:32.513Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-07T14:46:32.513Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "UserSec.cs",
               "DocumentMoniker": "D:\\VSC\\Uchebnaya2024ZIMA\\Var1ZIMA\\\u041E\u0441\u043D\u043E\u0432\u0430\\UCHEBKA\\UCHEBKA\\Models\\UserSec.cs",
               "RelativeDocumentMoniker": "UCHEBKA\\Models\\UserSec.cs",
@@ -406,12 +409,11 @@
               "RelativeToolTip": "UCHEBKA\\Models\\UserSec.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T14:40:51.294Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-07T14:40:51.294Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "UserRole.cs",
               "DocumentMoniker": "D:\\VSC\\Uchebnaya2024ZIMA\\Var1ZIMA\\\u041E\u0441\u043D\u043E\u0432\u0430\\UCHEBKA\\UCHEBKA\\Models\\UserRole.cs",
               "RelativeDocumentMoniker": "UCHEBKA\\Models\\UserRole.cs",
@@ -419,36 +421,33 @@
               "RelativeToolTip": "UCHEBKA\\Models\\UserRole.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T14:40:49.45Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-07T14:40:49.45Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "ParticipantsDatagrid.xaml",
               "DocumentMoniker": "D:\\VSC\\Uchebnaya2024ZIMA\\Var1ZIMA\\\u041E\u0441\u043D\u043E\u0432\u0430\\UCHEBKA\\UCHEBKA\\Views\\Helpers\\ParticipantsDatagrid.xaml",
               "RelativeDocumentMoniker": "UCHEBKA\\Views\\Helpers\\ParticipantsDatagrid.xaml",
               "ToolTip": "D:\\VSC\\Uchebnaya2024ZIMA\\Var1ZIMA\\\u041E\u0441\u043D\u043E\u0432\u0430\\UCHEBKA\\UCHEBKA\\Views\\Helpers\\ParticipantsDatagrid.xaml",
               "RelativeToolTip": "UCHEBKA\\Views\\Helpers\\ParticipantsDatagrid.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-07T14:39:06.213Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-07T14:39:06.213Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "EventCard.xaml",
               "DocumentMoniker": "D:\\VSC\\Uchebnaya2024ZIMA\\Var1ZIMA\\\u041E\u0441\u043D\u043E\u0432\u0430\\UCHEBKA\\UCHEBKA\\Views\\Helpers\\EventCard.xaml",
               "RelativeDocumentMoniker": "UCHEBKA\\Views\\Helpers\\EventCard.xaml",
               "ToolTip": "D:\\VSC\\Uchebnaya2024ZIMA\\Var1ZIMA\\\u041E\u0441\u043D\u043E\u0432\u0430\\UCHEBKA\\UCHEBKA\\Views\\Helpers\\EventCard.xaml",
               "RelativeToolTip": "UCHEBKA\\Views\\Helpers\\EventCard.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-07T14:33:58.205Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-07T14:33:58.205Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "EventCard.xaml.cs",
               "DocumentMoniker": "D:\\VSC\\Uchebnaya2024ZIMA\\Var1ZIMA\\\u041E\u0441\u043D\u043E\u0432\u0430\\UCHEBKA\\UCHEBKA\\Views\\Helpers\\EventCard.xaml.cs",
               "RelativeDocumentMoniker": "UCHEBKA\\Views\\Helpers\\EventCard.xaml.cs",
@@ -456,12 +455,11 @@
               "RelativeToolTip": "UCHEBKA\\Views\\Helpers\\EventCard.xaml.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAUwCMAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T14:33:41.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-07T14:33:41.308Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\VSC\\Uchebnaya2024ZIMA\\Var1ZIMA\\\u041E\u0441\u043D\u043E\u0432\u0430\\UCHEBKA\\UCHEBKA\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "UCHEBKA\\MainWindow.xaml.cs",
@@ -469,24 +467,22 @@
               "RelativeToolTip": "UCHEBKA\\MainWindow.xaml.cs",
               "ViewState": "AgIAAIgAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T14:22:54.498Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-07T14:22:54.498Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\VSC\\Uchebnaya2024ZIMA\\Var1ZIMA\\\u041E\u0441\u043D\u043E\u0432\u0430\\UCHEBKA\\UCHEBKA\\MainWindow.xaml",
               "RelativeDocumentMoniker": "UCHEBKA\\MainWindow.xaml",
               "ToolTip": "D:\\VSC\\Uchebnaya2024ZIMA\\Var1ZIMA\\\u041E\u0441\u043D\u043E\u0432\u0430\\UCHEBKA\\UCHEBKA\\MainWindow.xaml",
               "RelativeToolTip": "UCHEBKA\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-07T14:22:49.854Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-07T14:22:49.854Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "Converters.cs",
               "DocumentMoniker": "D:\\VSC\\Uchebnaya2024ZIMA\\Var1ZIMA\\\u041E\u0441\u043D\u043E\u0432\u0430\\UCHEBKA\\UCHEBKA\\Views\\Helpers\\Converters.cs",
               "RelativeDocumentMoniker": "UCHEBKA\\Views\\Helpers\\Converters.cs",
@@ -494,24 +490,22 @@
               "RelativeToolTip": "UCHEBKA\\Views\\Helpers\\Converters.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T14:11:45.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-07T14:11:45.133Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "AuthWindow.xaml",
               "DocumentMoniker": "D:\\VSC\\Uchebnaya2024ZIMA\\Var1ZIMA\\\u041E\u0441\u043D\u043E\u0432\u0430\\UCHEBKA\\UCHEBKA\\Views\\AuthWindow.xaml",
               "RelativeDocumentMoniker": "UCHEBKA\\Views\\AuthWindow.xaml",
               "ToolTip": "D:\\VSC\\Uchebnaya2024ZIMA\\Var1ZIMA\\\u041E\u0441\u043D\u043E\u0432\u0430\\UCHEBKA\\UCHEBKA\\Views\\AuthWindow.xaml",
               "RelativeToolTip": "UCHEBKA\\Views\\AuthWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-07T14:01:14.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-07T14:01:14.312Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "Event.cs",
               "DocumentMoniker": "D:\\VSC\\Uchebnaya2024ZIMA\\Var1ZIMA\\\u041E\u0441\u043D\u043E\u0432\u0430\\UCHEBKA\\UCHEBKA\\Models\\Event.cs",
               "RelativeDocumentMoniker": "UCHEBKA\\Models\\Event.cs",
@@ -519,12 +513,11 @@
               "RelativeToolTip": "UCHEBKA\\Models\\Event.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAtwAkAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T13:03:23.418Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-07T13:03:23.418Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 2,
               "Title": "SectionRepository.cs",
               "DocumentMoniker": "D:\\VSC\\Uchebnaya2024ZIMA\\Var1ZIMA\\\u041E\u0441\u043D\u043E\u0432\u0430\\UCHEBKA\\UCHEBKA\\Repos\\SectionRepository.cs",
               "RelativeDocumentMoniker": "UCHEBKA\\Repos\\SectionRepository.cs",
@@ -537,20 +530,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "EventRepository.cs",
               "DocumentMoniker": "D:\\VSC\\Uchebnaya2024ZIMA\\Var1ZIMA\\\u041E\u0441\u043D\u043E\u0432\u0430\\UCHEBKA\\UCHEBKA\\Repos\\EventRepository.cs",
               "RelativeDocumentMoniker": "UCHEBKA\\Repos\\EventRepository.cs",
               "ToolTip": "D:\\VSC\\Uchebnaya2024ZIMA\\Var1ZIMA\\\u041E\u0441\u043D\u043E\u0432\u0430\\UCHEBKA\\UCHEBKA\\Repos\\EventRepository.cs",
               "RelativeToolTip": "UCHEBKA\\Repos\\EventRepository.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAcwAsAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAkwGEAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T13:01:28.51Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-07T13:01:28.51Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "JuryWindow.xaml.cs",
               "DocumentMoniker": "D:\\VSC\\Uchebnaya2024ZIMA\\Var1ZIMA\\\u041E\u0441\u043D\u043E\u0432\u0430\\UCHEBKA\\UCHEBKA\\Views\\JuryWindow.xaml.cs",
               "RelativeDocumentMoniker": "UCHEBKA\\Views\\JuryWindow.xaml.cs",
@@ -558,24 +550,22 @@
               "RelativeToolTip": "UCHEBKA\\Views\\JuryWindow.xaml.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAADgvxoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T12:58:20.566Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-07T12:58:20.566Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "OrgWindow.xaml",
               "DocumentMoniker": "D:\\VSC\\Uchebnaya2024ZIMA\\Var1ZIMA\\\u041E\u0441\u043D\u043E\u0432\u0430\\UCHEBKA\\UCHEBKA\\Views\\OrgWindow.xaml",
               "RelativeDocumentMoniker": "UCHEBKA\\Views\\OrgWindow.xaml",
               "ToolTip": "D:\\VSC\\Uchebnaya2024ZIMA\\Var1ZIMA\\\u041E\u0441\u043D\u043E\u0432\u0430\\UCHEBKA\\UCHEBKA\\Views\\OrgWindow.xaml",
               "RelativeToolTip": "UCHEBKA\\Views\\OrgWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-07T12:57:15.34Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-07T12:57:15.34Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "EventJury.cs",
               "DocumentMoniker": "D:\\VSC\\Uchebnaya2024ZIMA\\Var1ZIMA\\\u041E\u0441\u043D\u043E\u0432\u0430\\UCHEBKA\\UCHEBKA\\Models\\EventJury.cs",
               "RelativeDocumentMoniker": "UCHEBKA\\Models\\EventJury.cs",
@@ -583,12 +573,11 @@
               "RelativeToolTip": "UCHEBKA\\Models\\EventJury.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAtwA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T12:47:49.197Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-07T12:47:49.197Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\VSC\\Uchebnaya2024ZIMA\\Var1ZIMA\\\u041E\u0441\u043D\u043E\u0432\u0430\\UCHEBKA\\UCHEBKA\\Models\\User.cs",
               "RelativeDocumentMoniker": "UCHEBKA\\Models\\User.cs",
@@ -596,48 +585,44 @@
               "RelativeToolTip": "UCHEBKA\\Models\\User.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAASwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T12:47:36.881Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-07T12:47:36.881Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "ProfileWindow.xaml",
               "DocumentMoniker": "D:\\VSC\\Uchebnaya2024ZIMA\\Var1ZIMA\\\u041E\u0441\u043D\u043E\u0432\u0430\\UCHEBKA\\UCHEBKA\\Views\\ProfileWindow.xaml",
               "RelativeDocumentMoniker": "UCHEBKA\\Views\\ProfileWindow.xaml",
               "ToolTip": "D:\\VSC\\Uchebnaya2024ZIMA\\Var1ZIMA\\\u041E\u0441\u043D\u043E\u0432\u0430\\UCHEBKA\\UCHEBKA\\Views\\ProfileWindow.xaml",
               "RelativeToolTip": "UCHEBKA\\Views\\ProfileWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-07T12:25:46.037Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-07T12:25:46.037Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "JuryWindow.xaml",
               "DocumentMoniker": "D:\\VSC\\Uchebnaya2024ZIMA\\Var1ZIMA\\\u041E\u0441\u043D\u043E\u0432\u0430\\UCHEBKA\\UCHEBKA\\Views\\JuryWindow.xaml",
               "RelativeDocumentMoniker": "UCHEBKA\\Views\\JuryWindow.xaml",
               "ToolTip": "D:\\VSC\\Uchebnaya2024ZIMA\\Var1ZIMA\\\u041E\u0441\u043D\u043E\u0432\u0430\\UCHEBKA\\UCHEBKA\\Views\\JuryWindow.xaml",
               "RelativeToolTip": "UCHEBKA\\Views\\JuryWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-07T11:50:41.878Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-07T11:50:41.878Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "JuryDaragrid.xaml",
               "DocumentMoniker": "D:\\VSC\\Uchebnaya2024ZIMA\\Var1ZIMA\\\u041E\u0441\u043D\u043E\u0432\u0430\\UCHEBKA\\UCHEBKA\\Views\\Helpers\\JuryDaragrid.xaml",
               "RelativeDocumentMoniker": "UCHEBKA\\Views\\Helpers\\JuryDaragrid.xaml",
               "ToolTip": "D:\\VSC\\Uchebnaya2024ZIMA\\Var1ZIMA\\\u041E\u0441\u043D\u043E\u0432\u0430\\UCHEBKA\\UCHEBKA\\Views\\Helpers\\JuryDaragrid.xaml",
               "RelativeToolTip": "UCHEBKA\\Views\\Helpers\\JuryDaragrid.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-07T11:50:39.145Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-07T11:50:39.145Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "ParticipantWindow.xaml.cs",
               "DocumentMoniker": "D:\\VSC\\Uchebnaya2024ZIMA\\Var1ZIMA\\\u041E\u0441\u043D\u043E\u0432\u0430\\UCHEBKA\\UCHEBKA\\Views\\ParticipantWindow.xaml.cs",
               "RelativeDocumentMoniker": "UCHEBKA\\Views\\ParticipantWindow.xaml.cs",
@@ -645,8 +630,7 @@
               "RelativeToolTip": "UCHEBKA\\Views\\ParticipantWindow.xaml.cs",
               "ViewState": "AgIAAEIAAAAAAAAAAAAowF0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T13:26:50.752Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-06T13:26:50.752Z"
             }
           ]
         },

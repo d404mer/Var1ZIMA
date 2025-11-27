@@ -24,6 +24,10 @@ namespace UCHEBKA.Views
     {
         private readonly EventRepository _eventRepo;
 
+        /// <summary>
+        /// Инициализирует новый экземпляр карточки мероприятия
+        /// </summary>
+        /// <param name="ev">Мероприятие для отображения</param>
         public EventCard(Event ev)
         {
             InitializeComponent();

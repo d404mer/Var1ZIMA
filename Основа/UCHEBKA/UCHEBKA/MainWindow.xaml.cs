@@ -9,6 +9,9 @@ using UCHEBKA.Views;
 
 namespace UCHEBKA
 {
+    /// <summary>
+    /// Главное окно приложения для просмотра мероприятий
+    /// </summary>
     public partial class MainWindow : Window
     {
         private readonly EventRepository _eventRepo;
@@ -19,6 +22,9 @@ namespace UCHEBKA
         private int? _selectedSectionId = null;
         private User _currentUser;
 
+        /// <summary>
+        /// Инициализирует новый экземпляр главного окна
+        /// </summary>
         public MainWindow()
         {
             var db = new UchebnayaLeto2025Context();
@@ -30,6 +36,9 @@ namespace UCHEBKA
             LoadData();
         }
 
+        /// <summary>
+        /// Загружает данные мероприятий и секций
+        /// </summary>
         private void LoadData()
         {
             _allEvents = _eventRepo.GetAllEvents();
@@ -44,18 +53,22 @@ namespace UCHEBKA
             ShowEvents(_allEvents);
         }
 
+        /// <summary>
+        /// Обработчик нажатия кнопки авторизации
+        /// </summary>
         private void AuthButton_Click(object sender, RoutedEventArgs e)
         {
-            // Пытаемся выполнить автоматический вход
             TryAutoLogin();
 
-            // Если автоматический вход не удался, показываем окно авторизации
             if (_currentUser == null)
             {
                 ShowAuthWindow();
             }
         }
 
+        /// <summary>
+        /// Пытается выполнить автоматический вход пользователя
+        /// </summary>
         private void TryAutoLogin()
         {
             var cred = _userRepo.GetCurrentUser();
@@ -71,6 +84,9 @@ namespace UCHEBKA
             }
         }
 
+        /// <summary>
+        /// Открывает окно в зависимости от роли пользователя
+        /// </summary>
         private void OpenRoleBasedWindow()
         {
             var role = _userRepo.GetUserRole(_currentUser.UserId);
@@ -87,6 +103,9 @@ namespace UCHEBKA
             this.Close();
         }
 
+        /// <summary>
+        /// Показывает окно авторизации
+        /// </summary>
         private void ShowAuthWindow()
         {
             AuthWindow authWindow = new AuthWindow();
@@ -100,6 +119,10 @@ namespace UCHEBKA
             authWindow.ShowDialog();
         }
 
+        /// <summary>
+        /// Отображает список мероприятий в интерфейсе
+        /// </summary>
+        /// <param name="events">Список мероприятий для отображения</param>
         private void ShowEvents(List<Event> events)
         {
             EventsWrapPanel.Children.Clear();
@@ -109,31 +132,27 @@ namespace UCHEBKA
             }
         }
 
+        /// <summary>
+        /// Применяет фильтры к списку мероприятий
+        /// </summary>
         private void ApplyFilters()
         {
             List<Event> filteredEvents;
 
-            // Если выбраны и дата и секция
             if (_selectedDate.HasValue && _selectedSectionId.HasValue && _selectedSectionId > 0)
             {
-                // Получаем события по секции
                 var eventsBySection = _eventRepo.GetEventsBySection(_selectedSectionId.Value);
-                // Получаем события по дате
                 var eventsByDate = _eventRepo.GetEventsByDate(_selectedDate);
-                // Находим пересечение
                 filteredEvents = eventsBySection.Intersect(eventsByDate).ToList();
             }
-            // Если выбрана только дата
             else if (_selectedDate.HasValue)
             {
                 filteredEvents = _eventRepo.GetEventsByDate(_selectedDate);
             }
-            // Если выбрана только секция
             else if (_selectedSectionId.HasValue && _selectedSectionId > 0)
             {
                 filteredEvents = _eventRepo.GetEventsBySection(_selectedSectionId.Value);
             }
-            // Если фильтры не выбраны
             else
             {
                 filteredEvents = _allEvents;
@@ -142,6 +161,9 @@ namespace UCHEBKA
             ShowEvents(filteredEvents);
         }
 
+        /// <summary>
+        /// Обработчик нажатия кнопки выбора даты
+        /// </summary>
         private void DatePickerButton_Click(object sender, RoutedEventArgs e)
         {
             MyCalendar.Visibility = MyCalendar.Visibility == Visibility.Visible
@@ -149,6 +171,9 @@ namespace UCHEBKA
                 : Visibility.Visible;
         }
 
+        /// <summary>
+        /// Обработчик изменения выбранной даты в календаре
+        /// </summary>
         private void MyCalendar_SelectedDatesChanged(object sender, SelectionChangedEventArgs e)
         {
             _selectedDate = MyCalendar.SelectedDate;
@@ -166,6 +191,9 @@ namespace UCHEBKA
             ApplyFilters();
         }
 
+        /// <summary>
+        /// Обработчик изменения выбранной секции в комбобоксе
+        /// </summary>
         private void ComboBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
             if (MyComboBox.SelectedValue != null && int.TryParse(MyComboBox.SelectedValue.ToString(), out int sectionId))
@@ -175,6 +203,9 @@ namespace UCHEBKA
             }
         }
 
+        /// <summary>
+        /// Обработчик нажатия кнопки сброса фильтров
+        /// </summary>
         private void ResetFilters_Click(object sender, RoutedEventArgs e)
         {
             _selectedDate = null;
@@ -184,7 +215,5 @@ namespace UCHEBKA
             MyCalendar.SelectedDate = null;
             ShowEvents(_allEvents);
         }
-
-       
     }
 }

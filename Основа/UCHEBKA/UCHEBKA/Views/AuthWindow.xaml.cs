@@ -9,6 +9,9 @@ using System.Windows.Threading;
 
 namespace UCHEBKA
 {
+    /// <summary>
+    /// Окно авторизации пользователя с капчей и блокировкой
+    /// </summary>
     public partial class AuthWindow : Window
     {
         private string currentCaptcha;
@@ -19,6 +22,9 @@ namespace UCHEBKA
 
         private static DateTime? _blockTime = null;
         private static int _failedAttempts = 0;
+        /// <summary>
+        /// Инициализирует новый экземпляр окна авторизации
+        /// </summary>
         public AuthWindow()
         {
             var db = new UchebnayaLeto2025Context();
@@ -28,10 +34,11 @@ namespace UCHEBKA
             CaptchaInput.Foreground = Brushes.Gray;
             GenerateNewCaptcha();
             this.Loaded += (s, e) => GenerateNewCaptcha();
-
-            
         }
 
+        /// <summary>
+        /// Генерирует новую капчу
+        /// </summary>
         private void GenerateNewCaptcha()
         {
             currentCaptcha = "";
@@ -47,10 +54,11 @@ namespace UCHEBKA
             DrawCaptchaText();
 
             AddInterferenceLines();
-
-
         }
 
+        /// <summary>
+        /// Добавляет шум на холст капчи
+        /// </summary>
         private void AddNoiseToCanvas()
         {
             int dotCount = 100;

@@ -5,16 +5,27 @@ using System.IO;
 
 namespace UCHEBKA.Repos
 {
+    /// <summary>
+    /// Класс для взаимодействия с сущностями пользователей
+    /// </summary>
     public class UserRepository
     {
         private readonly UchebnayaLeto2025Context _db;
         private const string BaseImagePath = "Images\\Users\\";
 
+        /// <summary>
+        /// Инициализирует новый экземпляр репозитория пользователей
+        /// </summary>
+        /// <param name="db">Контекст базы данных</param>
         public UserRepository(UchebnayaLeto2025Context db)
         {
             _db = db;
         }
 
+        /// <summary>
+        /// Вспомогательная функция для поиска корневного пути
+        /// </summary>
+        /// <returns>возвращает корневой путь</returns>
         private string GetProjectRootPath()
         {
             var currentDir = AppDomain.CurrentDomain.BaseDirectory;
@@ -22,6 +33,12 @@ namespace UCHEBKA.Repos
             return projectRoot;
         }
 
+        /// <summary>
+        /// Выполняет аутентификацию пользователя
+        /// </summary>
+        /// <param name="userId">Идентификатор пользователя</param>
+        /// <param name="password">Пароль пользователя</param>
+        /// <returns>Пользователь, если аутентификация успешна, иначе null</returns>
         public User Auth(int userId, string password)
         {
             return _db.Users
@@ -30,15 +47,27 @@ namespace UCHEBKA.Repos
                 .FirstOrDefault(u => u.UserId == userId && u.UserPassword == password);
         }
 
+        /// <summary>
+        /// Выполняет выход пользователя из системы
+        /// </summary>
         public void Logout()
         {
             File.WriteAllText("CurrUser.txt", string.Empty);
         }
+        /// <summary>
+        /// Сохраняет данные текущего пользователя для автоматического входа
+        /// </summary>
+        /// <param name="userId">Идентификатор пользователя</param>
+        /// <param name="password">Пароль пользователя</param>
         public void SaveCurrentUser(int userId, string password)
         {
             File.WriteAllText("CurrUser.txt", $"{userId}|{password}");
         }
 
+        /// <summary>
+        /// Получает данные сохраненного пользователя
+        /// </summary>
+        /// <returns>Кортеж с идентификатором и паролем пользователя, или null если данных нет</returns>
         public (int userId, string password)? GetCurrentUser()
         {
             if (!File.Exists("CurrUser.txt"))
@@ -55,6 +84,11 @@ namespace UCHEBKA.Repos
             return (userId, parts[1]);
         }
 
+        /// <summary>
+        /// Получает роль пользователя по его идентификатору
+        /// </summary>
+        /// <param name="userId">Идентификатор пользователя</param>
+        /// <returns>Название роли пользователя</returns>
         public string GetUserRole(long userId)
         {
             return _db.UserRoles
@@ -64,6 +98,11 @@ namespace UCHEBKA.Repos
                 .FirstOrDefault();
         }
 
+        /// <summary>
+        /// Получает пол пользователя по его идентификатору
+        /// </summary>
+        /// <param name="userId">Идентификатор пользователя</param>
+        /// <returns>Название пола пользователя</returns>
         public string GetUserSex(long userId)
         {
             return _db.UserSexes
@@ -73,6 +112,11 @@ namespace UCHEBKA.Repos
         }
 
 
+        /// <summary>
+        /// Получает пользователя по его идентификатору
+        /// </summary>
+        /// <param name="userId">Идентификатор пользователя</param>
+        /// <returns>Пользователь с указанным идентификатором</returns>
         public User GetUserById(long userId)
         {
             return _db.Users
@@ -81,12 +125,20 @@ namespace UCHEBKA.Repos
                 .FirstOrDefault(u => u.UserId == userId);
         }
 
+        /// <summary>
+        /// Обновляет данные пользователя в базе данных
+        /// </summary>
+        /// <param name="user">Пользователь для обновления</param>
         public void UpdateUser(User user)
         {
             _db.Users.Update(user);
             _db.SaveChanges();
         }
 
+        /// <summary>
+        /// Получает все варианты пола из базы данных
+        /// </summary>
+        /// <returns>Список всех вариантов пола</returns>
         public List<Sex> GetAllSexes()
         {
             return _db.Sexes.ToList();
@@ -244,7 +296,6 @@ namespace UCHEBKA.Repos
             }
             catch (Exception ex)
             {
-                // Логирование ошибки или вывод в консоль для отладки
                 Console.WriteLine($"Ошибка при удалении пользователя: {ex.Message}\n{ex.InnerException?.Message}");
                 return false;
             }

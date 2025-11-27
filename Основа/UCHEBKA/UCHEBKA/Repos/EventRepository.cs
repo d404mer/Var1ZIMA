@@ -7,16 +7,27 @@ using System.IO;
 
 namespace UCHEBKA.Repos
 {
+    /// <summary>
+    /// Репозиторий для работы с мероприятиями
+    /// </summary>
     public class EventRepository
     {
         private readonly UchebnayaLeto2025Context _db;
         private const string BaseImagePath = "Images\\Events\\";
 
+        /// <summary>
+        /// Инициализирует новый экземпляр репозитория мероприятий
+        /// </summary>
+        /// <param name="db">Контекст базы данных</param>
         public EventRepository(UchebnayaLeto2025Context db)
         {
             _db = db;
         }
 
+        /// <summary>
+        /// Получает корневой путь проекта
+        /// </summary>
+        /// <returns>Корневой путь проекта</returns>
         private string GetProjectRootPath()
         {
             var currentDir = AppDomain.CurrentDomain.BaseDirectory;
@@ -24,6 +35,10 @@ namespace UCHEBKA.Repos
             return projectRoot;
         }
 
+        /// <summary>
+        /// Получает все мероприятия с информацией о секциях
+        /// </summary>
+        /// <returns>Список всех мероприятий</returns>
         public List<Event> GetAllEvents()
         {
             return _db.Events
@@ -32,6 +47,11 @@ namespace UCHEBKA.Repos
                 .ToList();
         }
 
+        /// <summary>
+        /// Получает мероприятия по идентификатору секции
+        /// </summary>
+        /// <param name="sectionId">Идентификатор секции</param>
+        /// <returns>Список мероприятий указанной секции</returns>
         public List<Event> GetEventsBySection(int sectionId)
         {
             return _db.Events
@@ -39,6 +59,11 @@ namespace UCHEBKA.Repos
                 .ToList();
         }
 
+        /// <summary>
+        /// Получает мероприятия по дате
+        /// </summary>
+        /// <param name="date">Дата мероприятий</param>
+        /// <returns>Список мероприятий на указанную дату</returns>
         public List<Event> GetEventsByDate(DateTime? date)
         {
             if (!date.HasValue)
@@ -52,7 +77,11 @@ namespace UCHEBKA.Repos
                 .ToList();
         }
 
-        // чёт не так с этой функцией короче, где-то ещё раз вызываю похожую, но эта перекрывает и чёть юблять я короче хуй знает как оно работает. надо рефакторить
+        /// <summary>
+        /// Получает полный путь к изображению мероприятия
+        /// </summary>
+        /// <param name="fileName">Имя файла изображения</param>
+        /// <returns>Полный путь к изображению</returns>
         public string GetDisplayImagePath(string fileName)
         {
             if (string.IsNullOrEmpty(fileName))
@@ -63,22 +92,39 @@ namespace UCHEBKA.Repos
             return fullPath;
         }
 
+        /// <summary>
+        /// Добавляет новое мероприятие в базу данных
+        /// </summary>
+        /// <param name="newEvent">Новое мероприятие</param>
         public void AddEvent(Event newEvent)
         {
             _db.Events.Add(newEvent);
             _db.SaveChanges();
         }
 
+        /// <summary>
+        /// Обновляет существующее мероприятие
+        /// </summary>
+        /// <param name="eventToUpdate">Мероприятие для обновления</param>
         public void UpdateEvent(Event eventToUpdate)
         {
             _db.Events.Update(eventToUpdate);
             _db.SaveChanges();
         }
+        /// <summary>
+        /// Получает следующий доступный идентификатор для мероприятия
+        /// </summary>
+        /// <returns>Следующий идентификатор мероприятия</returns>
         public long GetNextEventId()
         {
             return _db.Events.Any() ? _db.Events.Max(e => e.EventId) + 1 : 1;
         }
 
+        /// <summary>
+        /// Удаляет мероприятие из базы данных
+        /// </summary>
+        /// <param name="eventId">Идентификатор мероприятия</param>
+        /// <returns>True, если удаление прошло успешно, иначе False</returns>
         public bool DeleteEvent(long eventId)
         {
             try
@@ -96,7 +142,6 @@ namespace UCHEBKA.Repos
             }
             catch (Exception ex)
             {
-                // Логирование ошибки
                 Console.WriteLine($"Ошибка при удалении мероприятия: {ex.Message}");
                 return false;
             }

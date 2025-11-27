@@ -23,6 +23,9 @@ namespace UCHEBKA
         private List<EventViewModel> _events;
         private List<ActivityViewModel> _activities;
 
+        /// <summary>
+        /// Инициализирует новый экземпляр окна администратора
+        /// </summary>
         public AdminWindow()
         {
             InitializeComponent();
@@ -32,11 +35,13 @@ namespace UCHEBKA
             _eventRepo = new EventRepository(_db);
 
             LoadUserData();
-
         }
 
       
 
+        /// <summary>
+        /// Загружает данные текущего пользователя
+        /// </summary>
         private void LoadUserData()
         {
             var currentUser = _usRepo.GetCurrentUser();
@@ -71,12 +76,18 @@ namespace UCHEBKA
         
     }
 
+    /// <summary>
+    /// Модель представления для мероприятий
+    /// </summary>
     public class EventViewModel
     {
         public Event Event { get; set; }
         public bool IsRegistered { get; set; }
     }
 
+    /// <summary>
+    /// Модель представления для активностей
+    /// </summary>
     public class ActivityViewModel
     {
         public bool IsModerating { get; set; }

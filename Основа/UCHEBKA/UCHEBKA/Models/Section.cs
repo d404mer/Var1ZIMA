@@ -3,6 +3,9 @@ using System.Collections.Generic;
 
 namespace UCHEBKA.Models;
 
+/// <summary>
+/// Модель секции/направления
+/// </summary>
 public partial class Section
 {
     public long SecId { get; set; }

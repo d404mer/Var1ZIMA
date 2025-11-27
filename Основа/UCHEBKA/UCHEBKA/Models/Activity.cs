@@ -3,6 +3,9 @@ using System.Collections.Generic;
 
 namespace UCHEBKA.Models;
 
+/// <summary>
+/// Модель активности/деятельности
+/// </summary>
 public partial class Activity
 {
     public long ActivityId { get; set; }

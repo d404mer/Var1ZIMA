@@ -3,6 +3,9 @@ using System.Collections.Generic;
 
 namespace UCHEBKA.Models;
 
+/// <summary>
+/// Модель пола пользователя
+/// </summary>
 public partial class Sex
 {
     public long SexId { get; set; }

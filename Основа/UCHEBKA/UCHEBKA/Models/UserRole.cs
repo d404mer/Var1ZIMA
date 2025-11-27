@@ -4,6 +4,9 @@ using System.ComponentModel.DataAnnotations;
 
 namespace UCHEBKA.Models;
 
+/// <summary>
+/// Модель связи пользователя с ролью
+/// </summary>
 public partial class UserRole
 {
     public long UserRoleId { get; set; }

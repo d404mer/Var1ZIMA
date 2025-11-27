@@ -5,8 +5,14 @@ using System.Windows.Data;
 
 namespace UCHEBKA.Views.Helpers
 {
+    /// <summary>
+    /// Конвертер для преобразования булевого значения в текст регистрации
+    /// </summary>
     public class BoolToRegisteredConverter : IValueConverter
     {
+        /// <summary>
+        /// Преобразует булевое значение в текст статуса регистрации
+        /// </summary>
         public object Convert(object value, Type targetType, object parameter, CultureInfo culture)
         {
             return (bool)value ? "Зарегистрирован" : "Не зарегистрирован";
@@ -18,6 +24,9 @@ namespace UCHEBKA.Views.Helpers
         }
     }
 
+    /// <summary>
+    /// Конвертер для преобразования булевого значения в текст модерации
+    /// </summary>
     public class BoolToModeratingConverter : IValueConverter
     {
         public object Convert(object value, Type targetType, object parameter, CultureInfo culture)
@@ -31,6 +40,9 @@ namespace UCHEBKA.Views.Helpers
         }
     }
 
+    /// <summary>
+    /// Конвертер для преобразования булевого значения в видимость элемента
+    /// </summary>
     public class BoolToVisibilityConverter : IValueConverter
     {
         public object Convert(object value, Type targetType, object parameter, CultureInfo culture)

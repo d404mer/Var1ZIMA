@@ -3,6 +3,9 @@ using System.Collections.Generic;
 
 namespace UCHEBKA.Models;
 
+/// <summary>
+/// Модель пользователя системы
+/// </summary>
 public partial class User
 {
     public long UserId { get; set; }

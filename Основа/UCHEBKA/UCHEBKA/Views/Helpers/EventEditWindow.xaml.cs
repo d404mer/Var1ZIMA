@@ -8,6 +8,9 @@ using UCHEBKA.Repos;
 
 namespace UCHEBKA.Views.Helpers
 {
+    /// <summary>
+    /// Окно редактирования мероприятий
+    /// </summary>
     public partial class EventEditWindow : Window
     {
         private readonly EventRepository _eventRepo;
@@ -15,6 +18,10 @@ namespace UCHEBKA.Views.Helpers
         private bool _isNewEvent;
         private string _selectedImagePath;
 
+        /// <summary>
+        /// Инициализирует новый экземпляр окна редактирования мероприятия
+        /// </summary>
+        /// <param name="eventToEdit">Мероприятие для редактирования или null для создания нового</param>
         public EventEditWindow(Event eventToEdit)
         {
             InitializeComponent();

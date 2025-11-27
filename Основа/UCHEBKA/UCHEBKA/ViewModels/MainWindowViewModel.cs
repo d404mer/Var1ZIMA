@@ -15,26 +15,41 @@ using UCHEBKA.Services;
 
 namespace UCHEBKA.ViewModels
 {
-    private readonly SectionEvent _eventService;
+    /// <summary>
+    /// Модель представления для главного окна
+    /// </summary>
+    public class MainWindowViewModel
+    {
+        private readonly SectionEvent _eventService;
 
     [ObservableProperty]
     private ObservableCollection<Event> _events = new();
 
-    public MainWindowViewModel(EventService eventService)
-    {
-        _eventService = eventService;
-        LoadEvents();
-    }
+        /// <summary>
+        /// Инициализирует новый экземпляр модели представления главного окна
+        /// </summary>
+        /// <param name="eventService">Сервис для работы с мероприятиями</param>
+        public MainWindowViewModel(EventService eventService)
+        {
+            _eventService = eventService;
+            LoadEvents();
+        }
 
-    private void LoadEvents()
-    {
-        var events = _eventService.GetEventsWithSections();
-        Events = new ObservableCollection<Event>(events);
-    }
+        /// <summary>
+        /// Загружает мероприятия с секциями
+        /// </summary>
+        private void LoadEvents()
+        {
+            var events = _eventService.GetEventsWithSections();
+            Events = new ObservableCollection<Event>(events);
+        }
 
-    [RelayCommand]
-    private void ApplyFilter()
-    {
-        // Фильтрация по дате/направлению
-    }
+        /// <summary>
+        /// Применяет фильтр к мероприятиям
+        /// </summary>
+        [RelayCommand]
+        private void ApplyFilter()
+        {
+            
+        }
 }

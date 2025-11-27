@@ -3,6 +3,9 @@ using System.Collections.Generic;
 
 namespace UCHEBKA.Models;
 
+/// <summary>
+/// Модель связи активности с мероприятием
+/// </summary>
 public partial class ActivityEvent
 {
     public long ActivityEventId { get; set; }

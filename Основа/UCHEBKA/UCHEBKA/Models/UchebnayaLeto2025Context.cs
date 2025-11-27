@@ -4,12 +4,22 @@ using Microsoft.EntityFrameworkCore;
 
 namespace UCHEBKA.Models;
 
+/// <summary>
+/// Контекст базы данных приложения
+/// </summary>
 public partial class UchebnayaLeto2025Context : DbContext
 {
+    /// <summary>
+    /// Инициализирует новый экземпляр контекста базы данных
+    /// </summary>
     public UchebnayaLeto2025Context()
     {
     }
 
+    /// <summary>
+    /// Инициализирует новый экземпляр контекста базы данных с параметрами
+    /// </summary>
+    /// <param name="options">Параметры конфигурации контекста</param>
     public UchebnayaLeto2025Context(DbContextOptions<UchebnayaLeto2025Context> options)
         : base(options)
     {
@@ -44,10 +54,17 @@ public partial class UchebnayaLeto2025Context : DbContext
 
     public virtual DbSet<UserSex> UserSexes { get; set; }
 
+    /// <summary>
+    /// Конфигурирует подключение к базе данных
+    /// </summary>
+    /// <param name="optionsBuilder">Построитель параметров контекста</param>
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-#warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
         => optionsBuilder.UseSqlServer("Server=USER;Database=UchebnayaZIMA;Trusted_Connection=True;TrustServerCertificate=True;");
 
+    /// <summary>
+    /// Конфигурирует модель данных
+    /// </summary>
+    /// <param name="modelBuilder">Построитель модели</param>
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.UseCollation("SQL_Latin1_General_CP1_CI_AS");

@@ -12,6 +12,9 @@ using Microsoft.EntityFrameworkCore;
 
 namespace UCHEBKA
 {
+    /// <summary>
+    /// Окно для работы жюри
+    /// </summary>
     public partial class JuryWindow : Window
     {
         private readonly UserRepository _usRepo;
@@ -19,6 +22,9 @@ namespace UCHEBKA
         private User _currentUser;
         private bool _isInitialLoad = true;
 
+        /// <summary>
+        /// Инициализирует новый экземпляр окна жюри
+        /// </summary>
         public JuryWindow()
         {
             InitializeComponent();

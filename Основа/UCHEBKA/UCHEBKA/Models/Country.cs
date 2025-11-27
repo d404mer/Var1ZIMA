@@ -3,6 +3,9 @@ using System.Collections.Generic;
 
 namespace UCHEBKA.Models;
 
+/// <summary>
+/// Модель страны
+/// </summary>
 public partial class Country
 {
     public long CountryCode { get; set; }

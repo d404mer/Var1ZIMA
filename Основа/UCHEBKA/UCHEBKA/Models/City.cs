@@ -3,6 +3,9 @@ using System.Collections.Generic;
 
 namespace UCHEBKA.Models;
 
+/// <summary>
+/// Модель города
+/// </summary>
 public partial class City
 {
     public long CityId { get; set; }

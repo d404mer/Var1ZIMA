@@ -8,12 +8,18 @@ using System.Windows.Media.Imaging;
 
 namespace UCHEBKA
 {
+    /// <summary>
+    /// Окно для работы организаторов
+    /// </summary>
     public partial class OrgWindow : Window
     {
         private readonly UchebnayaLeto2025Context _db;
         private readonly UserRepository _userRepo;
         private User _currentUser;
 
+        /// <summary>
+        /// Инициализирует новый экземпляр окна организатора
+        /// </summary>
         public OrgWindow()
         {
             InitializeComponent();
