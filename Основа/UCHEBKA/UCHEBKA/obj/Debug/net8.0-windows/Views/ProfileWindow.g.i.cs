@@ -124,7 +124,7 @@ namespace UCHEBKA.Views {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/UCHEBKA;component/views/profilewindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/UCHEBKA;V1.0.0.0;component/views/profilewindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Views\ProfileWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

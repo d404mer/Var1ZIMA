@@ -121,7 +121,7 @@ namespace UCHEBKA.Views
         {
             if (RoleComboBox.SelectedValue != null)
             {
-                SetFieldsVisibility((int)RoleComboBox.SelectedValue);
+                SetFieldsVisibility((int)(long)RoleComboBox.SelectedValue);
             }
         }
 

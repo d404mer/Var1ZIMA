@@ -17,9 +17,6 @@ public partial class UchebnayaLeto2025Context : DbContext
 
 
 
-
-
-
     public virtual DbSet<Event> Events { get; set; }
 
     public virtual DbSet<EventEventType> EventEventTypes { get; set; }
